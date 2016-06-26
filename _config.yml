@@ -1,0 +1,28 @@
+name: fancypants
+favicon: null
+layout_spectrum: 0.21150978142395616
+typography_spectrum: 0.3824477444868535
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5647809994406998
+  lightness: 0.9724941197782755
+  saturation: 0.12127855815924704
+  rhythmicContrast: 0.8892591937910765
+purpose: []
